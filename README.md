@@ -6,4 +6,4 @@ SQL Injection (SQLi) is a type of an injection attack where attacker gives malic
 
 # SQLi 
 CLI Based Scanner in Python to Detect Websites vulnerable to SQL injection.
- 
+   
