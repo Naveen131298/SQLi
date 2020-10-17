@@ -1,4 +1,4 @@
-# SQL
+# SQL 
 SQL - Structured Querry Language
 
 ## SQLI - Structure query Language Injection.
